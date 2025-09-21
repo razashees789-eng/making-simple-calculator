@@ -1,3 +1,4 @@
+making simple calculator
 a = int(input("enter the first number :"))
 b = int(input("enter the second number :"))
 op = input("enter the operator(+, -, *, /):")
